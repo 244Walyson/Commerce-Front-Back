@@ -1,0 +1,14 @@
+.form-drag-drop{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    cursor: pointer;
+}
+.form-drag-drop img {
+    border-radius: 5px;
+    width: 100px;
+}
+.form-drag-drop input {
+    width: 100%;
+
+}

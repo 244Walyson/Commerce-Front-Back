@@ -1,0 +1,16 @@
+.notFound{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.notFound h1{
+    font-size: 150px;
+}
+.notFound h2{
+     font-size: 30px;
+     margin-bottom: 40px;
+}
+.notFound a{
+    width: 70%;
+}

@@ -1,0 +1,32 @@
+
+#product-form-section {
+  padding: 20px 0;
+}
+
+.dsc-product-form-container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.dsc-product-form-buttons {
+  width: 100%;
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+}
+
+.image-upload-form{
+  border: 1px solid var(--dsc-color-card-border);
+  border-radius: 5px;
+  width: 100%;
+  display: flex;
+  padding: 15px ;
+}
+
+@media (min-width: 576px) {
+  #product-form-section {
+    padding: 40px 0;
+  }
+}
+

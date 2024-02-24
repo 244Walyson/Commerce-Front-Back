@@ -1,0 +1,20 @@
+.button-cancel-delete{
+    font-size: 16px;
+    padding: 10px;
+    font-weight: 700;
+    border-radius: 4px;
+    border: none;
+    background-color: red;
+    color: #fff;
+}
+.button-cancel-delete{
+    cursor: pointer;
+}
+.button-select-box {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.button-confirm-delete{
+    width: 95px;
+}
